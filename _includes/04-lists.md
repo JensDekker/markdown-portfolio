@@ -1,1 +1,14 @@
-Replace this with a list of your favorite things.
+- Math
+- Science
+  - Physics
+  - Chemistry
+- Creating
+  - Woodworking
+  - Leather Craft
+- Video Games
+  - Rocket League
+  - The Messenger
+  - Minecraft
+  - Sid Meier's Civilization VI
+- Driving
+- Hanging Out with Friends
