@@ -1,1 +1,1 @@
-[GitHub](github.com/JensDekker)
+[GitHub](https://github.com/JensDekker)
