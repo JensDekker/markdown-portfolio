@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Not really sure what to write here, I'm just a guy trying to understand Markdown. __SO,__ what's with _airplane food_ anyways.
